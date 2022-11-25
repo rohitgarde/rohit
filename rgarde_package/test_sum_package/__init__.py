@@ -1,1 +1,0 @@
-from test_sum import test_sum
