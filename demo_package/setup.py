@@ -14,7 +14,7 @@ URL = "https://github.com/MuthukumarSubramani/MuthuSub"
 EMAIL = ""
 AUTHOR = "Rohit"
 REQUIRES_PYTHON = ">=3.11.0"
-VERSION = "1.0.0"
+VERSION = "1.0.1"
 
 # What packages are required for this module to be executed ?
 _INSTALL_REQUIRES = [
